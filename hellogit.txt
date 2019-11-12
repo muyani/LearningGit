@@ -1,0 +1,12 @@
+INTRODUCTIONS
+Name - Muyani Letina
+background - Software dev
+why in this bootcamp? - Teach
+
+
+git is a version control system - Subversion,Mercurial,Perforce
+created by Linus Torvald
+it stores files and history of those files 
+
+Github- Online source code Hosting platform - Bitbucket,gitlab, 
+
